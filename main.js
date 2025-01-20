@@ -268,7 +268,7 @@ async function connectionUpdate(update) {
 ◦ *المنصة*: ${os.platform()} ${os.release()}
 ◦ *جهاز*: ${deviceName}
 ◦ *اسم البوت*: ${global.namebot}
-◦ *الوقت المتصل*: ${new Date().toLocaleString()}\n\n قناتي على الواتساب للمزيد من المعلومات \nhttps://whatsapp.com/channel/0029VaX4b6J7DAWqt3Hhu01A`;
+◦ *الوقت المتصل*: ${new Date().toLocaleString()}\n\n حسابي على الانستغرام اذا تريد تعرف المزيد \ninstagram.com/essaouidi_yassine`;
         
         this.sendMessage(global.nomerown + `@s.whatsapp.net`, {
             text: message
